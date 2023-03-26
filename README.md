@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm OKH@nd</h1>
-<h3 align="center">A IT from Taiwan Aka OKH@nd</h3>
+<h3 align="center">Automation Engineer from Taiwan</h3>
 
 <h3 align="left">Experience:</h3>
 <p align="left">
