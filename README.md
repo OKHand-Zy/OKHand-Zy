@@ -15,11 +15,11 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Experience:</h3>
 <p align="left">
-1. The School of Information and Design's joint special exhibition competition won the "Excellent" -  Image Analysis in Mental Condition Detection and Application<br>
-2. Shortlisted for 2021 <a href='https://www.dcaward-vgw.org.tw/'>“Vision Get Wild Award”</a> mobile application - software content group <br>
+1. Received "Outstanding Award" in the joint exhibition competition of College of Information and Design, Chang Jung Christian University - Image analysis in mental condition detection and application.<br>
+2. Nominated for the 2021 <a href='https://www.dcaward-vgw.org.tw/'>“Vision Get Wild Award”</a> - Mobile Application Category, Software Content Group <br>
 3. <a href='https://www.youtube.com/watch?v=3x9jx29hA68&t=191s&ab_channel=SITCON%E5%AD%B8%E7%94%9F%E8%A8%88%E7%AE%97%E6%A9%9F%E5%B9%B4%E6%9C%83'>2021 SITCON Speaker -  Use Python to develop cross-platform apps by kivy </a><br>
-4. 2021 <a href='https://ais3.org/'>AIS3 summer courses</a> - Enterprise Cloud Group <br>
-5. Department’s Education Training by Python , Speaker <br>
+4. Participated in the 2021 <a href='https://ais3.org/'>AIS3</a> New-Generation Information Security Summer School - Enterprise Cloud Group <br>
+5. Speaker for in-house Python education and training program within the company <br>
 </p>
 
 <h3 align="left">Connect with me:</h3>
