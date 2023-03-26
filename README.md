@@ -11,8 +11,24 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm OKH@nd</h1>
-<h3 align="center">Automation Engineer from Taiwan</h3>
+<h3 align="center">Automation Developer from Taiwan</h3>
 
+<h3 align="left">Work Experience:</h3>
+<p align="left">
+  System Integration Testing Engineer, SIT, Foxconn,    Nov.2021 ~ Mar.2023 </br>
+  1. Responsible for x86-64 and arm server operation test </br>
+  2. Test and verify system function (functional test)</br> 
+  3. compatibility (options compatibility test), performance (performance)</br> 
+  4. stress loading (stress loading)</br>
+  5. reliability (RAS feature test) and integration test BIOS, BMC, and all accessories for server hardware.</br>
+  </br>
+  Automation Developer, SIT, Foxconn,    Mar.2023 ~ Present </br>
+  1. Design, develop, and maintain test automation codebase such as Python/Bash/Powershell scripts </br>
+  2. Experience in manual/automation testing of server centric/rack-level validation </br>
+  3. Extensive communication and collaboration with stakeholders from firmware/BIOS/BMC/Silicon-Vendor teams for planning and developing solutions. </br>
+  
+  
+</p>
 <h3 align="left">Experience:</h3>
 <p align="left">
 1. Received "Outstanding Award" in the joint exhibition competition of College of Information and Design, Chang Jung Christian University - Image analysis in mental condition detection and application.<br>
