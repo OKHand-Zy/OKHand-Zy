@@ -45,6 +45,10 @@ You can click the Preview link to take a look at your changes.
 <a href="https://discord.gg/OKHand#1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="OKHand#1111" height="30" width="40" /></a>
 <a href="https://home.gamer.com.tw/homeindex.php?owner=Az7899603" target="blank"><img align="center" src="https://i.imgur.com/BtXOqQM.png" alt="OKHand" height="30" width="40" /></a>
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+  
 </p>
 
 <h3 align="left">Programming Languages:</h3>
