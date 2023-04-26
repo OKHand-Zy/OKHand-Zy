@@ -47,6 +47,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h3 align="left">Skill badges:</h3>
+
 <!--START_SECTION:badges-->
 [![AWS Educate Introduction to Cloud 101](https://images.credly.com/size/110x110/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)](http://www.credly.com/badges/76f82ea6-bd7c-44e8-8212-1dc194646e0a "AWS Educate Introduction to Cloud 101")
 <!--END_SECTION:badges-->
