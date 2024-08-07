@@ -132,8 +132,7 @@ Refrence:https://pemtajo.medium.com/how-to-improve-your-github-profile-by-adding
 
 <h3 align="left">Automation:</h3>
 <p align="left">
-  <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> 
-  <a href="https://www.pabbly.com/" target="_blank" rel="noreferrer"> <img src="https://du7m7sbzce8rk.cloudfront.net/wp-content/uploads/2022/02/pabbly-subscriptions.png" alt="pabbly" width="40" height="40"/> </a> 
+  <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a>  
   <a href="https://notify-bot.line.me/" target="_blank" rel="noreferrer"> <img src="https://tw-developer.gallerycdn.vsassets.io/extensions/tw-developer/linenotify/0.1.6/1681115220777/Microsoft.VisualStudio.Services.Icons.Default" alt="line-notify-bot" width="40" height="40"/> </a>
 </p>
 
